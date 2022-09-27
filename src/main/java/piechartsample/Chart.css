@@ -1,0 +1,57 @@
+.default-color0.chart-pie { -fx-pie-color: #ffd700; }
+.default-color1.chart-pie { -fx-pie-color: #ffa500; }
+.default-color2.chart-pie { -fx-pie-color: #860061; }
+.default-color3.chart-pie { -fx-pie-color: #adff2f; }
+.default-color4.chart-pie { -fx-pie-color: #ff5700; }
+
+.chart-pie-label-line {
+    -fx-stroke: #8b4513;
+    -fx-fill: #8b4513;
+}
+
+.chart-pie-label {
+    -fx-fill: #8b4513;
+    -fx-font-size: 1em;
+} 
+.chart-legend {
+   -fx-background-color:  #fafad2;
+   -fx-stroke: #daa520;
+}   
+/*
+.chart {
+    -fx-font-size: 1.0em; 
+    -fx-font-family: Cambria;
+    -fx-text-fill: #ffd700;    
+}
+
+.chart-content {
+    -fx-padding: 10px;
+    -fx-text-fill: #f5fffa;
+}
+.chart-title {
+    -fx-font-size: 1.5em;  24pt - 12 more than the default font 
+    -fx-text-fill: #ffd700;
+}
+.chart-legend {
+   -fx-background-color:  #cccccc, #eeeeee;
+   -fx-background-insets: 0, 2;
+   -fx-background-radius: 6,5;
+   -fx-padding: 26px;
+   -fx-background-position: center top;
+    -fx-fill: #f5f5f5; 
+}
+
+.chart-pie-label {
+    -fx-fill: #f5fffa;
+    -fx-font-family: Cambria;
+    -fx-font-size: 12;
+} 
+
+*/
+
+
+
+
+
+
+

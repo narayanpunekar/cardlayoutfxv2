@@ -1,0 +1,34 @@
+.chart-bar {
+    -fx-background-color: rgba(0,168,355,0.05);
+    -fx-border-color: rgba(0,168,355,0.3) rgba(0,168,355,0.3) transparent rgba(0,168,355,0.3);
+    -fx-background-radius: 0;
+    -fx-background-position: left center;
+   /* -fx-background-repeat: no-repeat space;*/
+}
+
+.data0.chart-bar {
+    -fx-background-image: url("austria.png");
+}
+.data1.chart-bar {
+    -fx-background-image: url("brazil.png");
+}
+.data2.chart-bar {
+    -fx-background-image: url("france.png");
+}
+.data3.chart-bar {
+    -fx-background-image: url("italy.png");
+}
+.data4.chart-bar {
+    -fx-background-image: url("usa.png");
+}
+
+
+
+
+
+
+
+
+
+
+

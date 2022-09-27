@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: narayan.punekar@yahoo.com
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_202
+Main-Class: com.app.cardlayoutfxv2.clsLayout
