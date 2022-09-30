@@ -48,7 +48,7 @@ pipeline {
 		stage("Deploy to staging") {
 			steps { 
 				sh "docker container rm -f cardlayoutfxv2-app" 
-				sh "docker run -d -p 8280:8080 --name cardlayoutfxv2-app npunekar/cardlayoutfxv2"
+				sh "docker run -d -p 8180:8080 --name cardlayoutfxv2-app npunekar/cardlayoutfxv2"
 			}
 		}
     }
